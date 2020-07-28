@@ -12,3 +12,5 @@ I help the Azure community become even more **awesome**.
 I am an [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003451?fullName=Gregor%20Suttie "Azure MVP") and if you are looking for a speaker on anything Azure related then reach out to me.
 
 My twitter handle is [@gregor_suttie](https://twitter.com/gregor_suttie "@gregor_suttie") and that’s the best place to contact me.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/gregor_suttie.svg?style=social)](https://twitter.com/gregor_suttie)  
