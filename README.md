@@ -4,6 +4,7 @@
 
 Hey Gregor Suttie here aka **Azure Greg** :thumbsup:
 
+I am an Azure Architect working for Intercept in the Netherlands.
 
 I help run the [Glasgow Azure User Group](https://www.gaug.co.uk/ "Glasgow Azure User Group") and I run the **Azure Global Bootcamp Glasgow edition**.
 
