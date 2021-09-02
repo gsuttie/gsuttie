@@ -8,6 +8,8 @@ I am an Azure Architect working for Intercept in the Netherlands.
 
 I help run the [Glasgow Azure User Group](https://www.gaug.co.uk/ "Glasgow Azure User Group") and I run the **Azure Global Bootcamp Glasgow edition**.
 
+I helped co-orhganise the Azure Calendar (http://azureadventcalendar.com/) and now the Festive Tech Calendar (festivetechcalendar.azurewebsites.net)
+
 I help the Azure community become even more **awesome**.
 
 I am an [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003451?fullName=Gregor%20Suttie "Azure MVP") and if you are looking for a speaker on anything Azure related then reach out to me.
