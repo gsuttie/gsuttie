@@ -1,5 +1,3 @@
-![Azure Greg](https://gregorsuttie.com/wp-content/uploads/2019/12/white-Copy-2.png "Azure Greg")
-
 #Gregor Suttie
 
 Hey Gregor Suttie here aka **Azure Greg** :thumbsup:
