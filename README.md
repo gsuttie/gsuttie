@@ -20,5 +20,7 @@ My twitter handle is [@gregor_suttie](https://twitter.com/gregor_suttie "@gregor
 
 --- 
 Tools
-Azure Release Radar - <a href="https://claude.ai/artifact/8bLzeAkn5B86tBvKgQVQTi" target="_none">Azure Release Radar</a>
+
+- Azure Release Radar - <a href="https://claude.ai/artifact/8bLzeAkn5B86tBvKgQVQTi" target="_none">Azure Release Radar</a>
+- Rate your Azure Web Application Firewalls - <a href="https://github.com/gsuttie/ratemywaf" target="_none">Rate your Azure Web Application Firewalls</a>
 
