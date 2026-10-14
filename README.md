@@ -23,4 +23,5 @@ Tools
 
 - Azure Release Radar - <a href="https://claude.ai/artifact/8bLzeAkn5B86tBvKgQVQTi" target="_none">Azure Release Radar</a>
 - Rate your Azure Web Application Firewalls - <a href="https://github.com/gsuttie/ratemywaf" target="_none">Rate your Azure Web Application Firewalls</a>
+- Bicep Release Radar - <a href="https://claude.ai/artifact/6MFTYrXUs2KWXsFhiNRPfn#rel-v0-47-16" target="_none">Bicep Release Radar </a>
 
