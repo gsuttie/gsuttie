@@ -28,11 +28,11 @@ I design and run Azure platforms for a living, and I spend the rest of my time t
 
 ## 💬 Ask me about
 
-- Azure landing zones, governance and platform design
+- Azure landing zones, governance, security and platform design
 - Bicep and infrastructure as code
-- GitHub Enterprise for Azure teams - Actions, migrations from Azure DevOps, DevOps tooling
+- GitHub Enterprise - Actions, migrations from Azure DevOps, DevOps tooling
 - Managed services: monitoring, alerting and running Azure estates day to day
-- Using AI agents for Azure operations and audits
+- Using / creating AI agents and skills within GitHub Copilot, M365 Copilot and Claude Code
 - Running a community event without losing your mind
 
 ---
