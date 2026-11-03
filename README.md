@@ -19,6 +19,13 @@ I design and run Azure platforms for a living, and I spend the rest of my time t
 
 ---
 
+## 🏆 Awards
+
+- Azure MVP (8 years)
+- Outstanding Contribution to the Microsoft Community UK Winner 2023
+- Outstanding Contribution to the Microsoft Community WorldWide Winner 2023 - https://youtu.be/RNf9utsBroc
+---
+
 ## 💬 Ask me about
 
 - Azure landing zones, governance and platform design
