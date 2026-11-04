@@ -15,9 +15,9 @@ I design and run Azure platforms for a living, and I spend the rest of my time t
 | [**Bicep Release Radar**](https://claude.ai/artifact/6MFTYrXUs2KWXsFhiNRPfn) | Tracks every Bicep release and what changed — handy if you write IaC for a living |
 | [**AzureResources**](https://github.com/gsuttie/AzureResources) | Free Azure study guides, exam prep and learning resources · ⭐ 165+ |
 | [**Rate My WAF**](https://github.com/gsuttie/ratemywaf) | Scores your Azure Web Application Firewall config and tells you what to fix |
-| [**Rate My AzureSQLSetup **](https://github.com/gsuttie/RateMyAzureSQLSetup) | Scores your Azure SQL Setup and tells you what to fix |
-| [**Rate My AzureBackups **](https://github.com/gsuttie/RateMyAzureBackups) | Scores your Azure Backups and tells you what to fix |
-| [**Rate My AzureSubscriptions **](https://github.com/gsuttie/ratemyAzureSubscriptions) | Scores your Azure Subscriptions and tells you what to fix |
+| [**Rate My AzureSQLSetup**](https://github.com/gsuttie/RateMyAzureSQLSetup) | Scores your Azure SQL Setup and tells you what to fix |
+| [**Rate My AzureBackups**](https://github.com/gsuttie/RateMyAzureBackups) | Scores your Azure Backups and tells you what to fix |
+| [**Rate My AzureSubscriptions**](https://github.com/gsuttie/ratemyAzureSubscriptions) | Scores your Azure Subscriptions and tells you what to fix |
 | [**Azure Resource Graph Examples**](https://github.com/gsuttie/AzureResourceGraphExamples) | Ready-to-use Resource Graph queries and dashboards for seeing across your estate |
 
 ---
